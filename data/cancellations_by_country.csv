@@ -1,0 +1,35 @@
+Country,cancelled_invoices,cancellation_rows,cancelled_value,pct_of_total_revenue
+"United Kingdom",6993,16216,1012195.45,5.88
+EIRE,149,480,21075.03,0.12
+France,121,384,18194.19,0.11
+Spain,29,86,13401.44,0.08
+Germany,297,910,9611.49,0.06
+Netherlands,19,44,5323.43,0.03
+Denmark,10,19,4121.10,0.02
+Japan,20,93,3277.14,0.02
+Sweden,21,23,2296.43,0.01
+"Channel Islands",21,92,2238.52,0.01
+USA,5,126,2080.32,0.01
+Australia,20,96,1780.59,0.01
+Switzerland,30,52,1282.53,0.01
+Italy,25,64,1205.71,0.01
+Belgium,33,53,670.28,0.00
+"United Arab Emirates",5,32,645.08,0.00
+Portugal,22,51,643.41,0.00
+Cyprus,7,20,496.70,0.00
+Finland,11,17,411.09,0.00
+Poland,10,23,374.36,0.00
+Austria,5,15,305.41,0.00
+Bahrain,2,2,248.24,0.00
+Israel,1,2,227.44,0.00
+Malta,5,15,220.12,0.00
+Korea,1,10,168.69,0.00
+Norway,2,11,161.68,0.00
+Nigeria,1,2,147.05,0.00
+"Czech Republic",3,5,119.02,0.00
+Greece,3,6,100.70,0.00
+Unspecified,3,3,58.75,0.00
+Lebanon,1,1,39.67,0.00
+"Saudi Arabia",1,1,14.75,0.00
+"Hong Kong",1,1,10.95,0.00
+"European Community",1,1,8.50,0.00
